@@ -28,5 +28,18 @@
     "postcss": "^8.4.39",
     "tailwindcss": "^3.4.4",
     "vite": "^5.3.1"
-  }
+  },
+  "description": "",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YousafKhan1/Portfolio-React-Tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YousafKhan1/Portfolio-React-Tailwind/issues"
+  },
+  "homepage": "https://github.com/YousafKhan1/Portfolio-React-Tailwind#readme"
 }
